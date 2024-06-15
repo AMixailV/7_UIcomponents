@@ -1,0 +1,27 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/2_UIcomponents/app/src/main/res/drawable/background_shape.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/2_UIcomponents/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/2_UIcomponents/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/2_UIcomponents/app/src/main/res/layout/fragment_blank.xml" value="0.1171875" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/2_UIcomponents/app/src/main/res/layout/fragment_image_view.xml" value="0.18518518518518517" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/2_UIcomponents/app/src/main/res/layout/fragment_text_view.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/drawable/background_shape.xml" value="0.123" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/layout/activity_main.xml" value="0.24351851851851852" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/layout/fragment_button.xml" value="0.25416666666666665" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/layout/fragment_edit_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/layout/fragment_image_view.xml" value="0.24351851851851852" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/layout/fragment_radio_button.xml" value="0.24351851851851852" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/7_UIcomponents/app/src/main/res/layout/fragment_text_view.xml" value="0.24351851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

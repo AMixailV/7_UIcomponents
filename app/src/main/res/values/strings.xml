@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UIcomponents</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="btn_text_view">Text View</string>
+    <string name="btn_image_view">IMAGE VIEW</string>
+    <string name="change_text_view">Change Text View</string>
+    <string name="change_image_view">Change Image View</string>
+    <string name="button">Button</string>
+    <string name="random_image_button">Random Image Button</string>
+    <string name="random_number">"Random number: "</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="enter_image_keyword">Enter image keyword</string>
+    <string name="use_keyword">Use keyword</string>
+    <string name="use_auto_enter">Use auto enter</string>
+    <string name="space">space</string>
+    <string name="architecture">architecture</string>
+    <string name="water">water</string>
+    <string name="animal">animal</string>
+    <string name="get_random_image">Get Random Image</string>
+    <string name="radio_group">radio_group</string>
+</resources>
